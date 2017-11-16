@@ -8,4 +8,8 @@
 
 > 测量数据Matlab读取示例代码，请参加[`这里`](https://github.com/FizzyStudio/CFD/tree/master/Examples).
 
+### LED时序控制API
+
+>　请参考[`这里`](https://github.com/FizzyStudio/CFD/blob/master/Doc/serial_port_command_api.md)
+
 
